@@ -1,14 +1,18 @@
-# 📊 Análise de Churn: Redução de Cancelamentos em Empresa de Serviços 
+# 📊 Churn Analysis: Reducing Cancellations in a Service Company
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-Projeto de Iniciação (Junho/2025) - Revisado e Atualizado (Março/2026)
 
 [🇧🇷 Português](#-português) | [🇺🇸 English](#-english)
 
 ---
 ## 🇧🇷 Português
+
+# 📊 Análise de Churn: Redução de Cancelamentos em Empresa de Serviços
+
+Projeto de Iniciação (Junho/2025) - Revisado e Atualizado (Março/2026)
 
 Este projeto analisa uma amostra de 50.000 clientes para identificar os principais motivos de cancelamento (churn) e propõe soluções estratégicas baseadas em dados para a retenção da base.
 
@@ -48,7 +52,7 @@ Diferente de abordagens tradicionais que apenas filtram os erros, este projeto u
 
 ### 📱 Representação Visual dos Resultados
 
-  <img src="./assets/newplot.png" width="800" alt="Gráfico de barras Redução Projetada de Cancelamentos">
+<img src="./assets/newplot.png" width="800" alt="Gráfico de barras Redução Projetada de Cancelamentos">
 
 
 ### 📈 Evolução e Autocrítica
@@ -58,14 +62,14 @@ Este repositório é um registro da minha transição de carreira para TI. A ver
 
 A organização das pastas reflete as boas práticas de desenvolvimento que utilizei para isolar o ambiente e os dados:
 
-    ```
+```text
     ├── data/                       # Pasta contendo os datasets
     │   └── cancelamentos_sample.csv # Base de dados (Amostra de 50.000 clientes)
     ├── venv/                       # Ambiente virtual (Omitido no GitHub via .gitignore)
     ├── inicial.ipynb               # Notebook principal com a análise e gráficos
     ├── requirements.txt            # Dependências para reprodução do ambiente
     └── README.md                   # Documentação e insights do projeto
-    ```
+```
 
 ### 🚀 Como Executar o Projeto
 
@@ -74,7 +78,7 @@ Este projeto utiliza um ambiente virtual (venv) para garantir que as versões da
 1. Clonar o repositório:
     ```
     git clone https://github.com/helensjferreira-dev/analise-dados-cancelamentos.git
-    cd nome-do-projeto
+    cd analise-dados-cancelamentos
     ```
 
 2. Criar e ativar o ambiente virtual:
@@ -107,6 +111,9 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 ---
 
 ## 🇺🇸 English
+
+Initiation Project (June/2025) - Reviewed and Updated (March/2026)
+
 
 This project analyzes a sample of 50,000 customers to identify the main reasons for cancellation (churn) and proposes data-driven strategic solutions for customer retention.
 
@@ -144,7 +151,7 @@ Unlike traditional approaches that merely filter out errors, this project uses a
 
 ### 📱 Visual Representation of Results
 
-  <img src="./assets/newplot.png" width="800" alt="Bar Chart - Projected Churn Reduction">
+<img src="./assets/newplot.png" width="800" alt="Bar Chart - Projected Churn Reduction">
 
 
 ### 📈 Evolution and Self-Criticism
@@ -154,14 +161,14 @@ This repository is a record of my career transition into IT. The original versio
 
 The folder organization reflects the development best practices used to isolate the environment and data:
 
-    ```
+```text
     ├── data/                       # Folder containing the datasets
     │   └── cancelamentos_sample.csv # Database (Sample of 50,000 customers)
     ├── venv/                       # Virtual environment (Omitted on GitHub via .gitignore)
     ├── inicial.ipynb               # Main notebook with analysis and charts
     ├── requirements.txt            # Dependencies for environment reproduction
     └── README.md                   # Project documentation and insights
-    ```
+```
 
 ### 🚀 How to Run the Project
 
@@ -171,7 +178,7 @@ This project uses a virtual environment (venv) to ensure that library versions a
 
     ```
     git clone https://github.com/helensjferreira-dev/analise-dados-cancelamentos.git
-    cd project-name
+    cd analise-dados-cancelamentos
     ```
 
 2. Create and activate the virtual environment:
@@ -206,4 +213,4 @@ This project is under the MIT license. See the LICENSE file for more details.
 Hélen Ferreira – Developer  
 📸 [Linkedin](https://www.linkedin.com/in/helensjferreira-dev/)  
 💬 [WhatsApp](https://wa.me/5548988183720)  
-🔗 [GitHub](https://github.com/helensjferreira-dev/assistente-esportivo)  
+🔗 [GitHub](https://github.com/helensjferreira-dev/)  
